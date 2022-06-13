@@ -149,4 +149,4 @@ Example Response:
 {}
 ```
 
-![Structure](images/structure.drawio.svg)
+![Image](src/structure.drawio.svg)
