@@ -148,3 +148,5 @@ Example Response:
 ```json
 {}
 ```
+
+![Structure](images/structure.drawio.svg)
